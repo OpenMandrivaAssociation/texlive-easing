@@ -1,6 +1,6 @@
 Name:		texlive-easing
 Version:	59975
-Release:	1
+Release:	2
 Summary:	easing functions for pgfmath
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/easing
